@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Sanjay<br>🔹 Cybersecurity Enthusiast | Blue Team (SOC) | Full-Stack Developer<br>🔹Worked as an intern at Black Perl DFIR <br>🔹 Passionate about threat detection, SIEM, and security automation<br>🔹 Experienced in Python, Django, and front-end development<br>🔹 Currently developing a MITRE ATT&CK Insights Extractor & automating security analysis<br><br>💻 Always exploring new tech and building innovative solutions!<br>📌 Check out my projects & feel free to connect!
+👋 Hey there! I'm Sanjay<br>🔹 Cybersecurity Enthusiast | Blue Team (SOC) | Full-Stack Developer<br>🔹Worked as an intern at Black Perl DFIR <br>🔹 Passionate about threat detection, SIEM, and security automation<br>🔹 Experienced in Python, Django, and front-end development<br><br><br>💻 Always exploring new tech and building innovative solutions!<br>📌 Check out my projects & feel free to connect!
 
 
 ## 🌐 Socials:
